@@ -36,7 +36,7 @@ PostgreSQL, MongoDB, MySQL
 AI model integration, machine learning, NumPy, Pandas, Matplotlib, data analysis and visualization
 
 **Cloud & Infrastructure**
-AWS, Linux, Nginx, Gunicorn, Git
+AWS, Azure, Windows, Linux, Nginx, Gunicorn, Git
 
 My stack changes depending on the problem I'm solving. I care more about building something reliable and maintainable than choosing a technology just because it's popular.
 
