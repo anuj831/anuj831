@@ -8,7 +8,7 @@ I'm the person who enjoys getting into the details: figuring out why something i
 
 At UpBusiness, I'm responsible for the technology behind the product, from architecture and development to security, deployment, and performance. We're building a B2B marketplace that helps businesses discover service providers and find the right companies for their needs.
 
-One of the areas I'm working on is using AI to make buyer-lead discovery, requirement extraction, and vendor matching more useful. I'm also working on automating parts of partner verification and onboarding.
+One of the areas I'm working on is using AI to make buyer-lead discovery, requirement extraction, and partner matching more useful. I'm also working on automating parts of partner verification and onboarding.
 
 ## What I spend my time building
 
