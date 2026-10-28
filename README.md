@@ -2,7 +2,7 @@
 
 **Co-Founder & CTO at [UpBusiness](https://upbusinessco.com/) | Full-Stack Developer | Building with AI**
 
-I've spent over 5 years building software, solving engineering problems, and turning ideas into working products. These days, I'm putting that experience into building UpBusiness.
+I've spent over 6 years building software, solving engineering problems, and turning ideas into working products. These days, I'm putting that experience into building UpBusiness.
 
 I'm the person who enjoys getting into the details: figuring out why something isn't working, improving an existing feature, designing an API, integrating an AI model, or working out how to make a system more reliable.
 
